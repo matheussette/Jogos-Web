@@ -13,7 +13,7 @@ namespace Salario
         static void Main(string[] args)
         {
             
-            Console.Write("Quantos funcionários serão registrados? ");//Solicita o numero dos funcionarios registrados
+            Console.Write("Quantidade de funcionarios: ");//Solicita o numero dos funcionarios registrados
             int N = int.Parse(Console.ReadLine());
 
             
